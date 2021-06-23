@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/emilio/projects/birthday_calendar_docker/backend'
+let g:netrw_dirhist_7='/home/emilio/projects/birthday_calendar_docker/backend/storage/logs'
+let g:netrw_dirhist_6='/home/emilio/projects/birthday_calendar_docker/backend/storage'
+let g:netrw_dirhist_5='/home/emilio/projects/birthday_calendar_docker/backend'
+let g:netrw_dirhist_4='/home/emilio/projects/birthday_calendar_docker/backend/routes'
+let g:netrw_dirhist_3='/home/emilio/projects/birthday_calendar_docker/backend'
+let g:netrw_dirhist_2='/home/emilio/projects/birthday_calendar_docker/backend/routes'
+let g:netrw_dirhist_1='/home/emilio/projects/birthday_calendar_docker/backend'
+let g:netrw_dirhist_0='/home/emilio/projects/birthday_calendar_docker/backend/app'
+let g:netrw_dirhist_9='/home/emilio/projects/birthday_calendar_docker/backend/app/Http'
