@@ -2,8 +2,6 @@
 # ~/.bashrc
 #
 
-cowsay -f koala "Welcome E xD"
-
 [[ $- != *i* ]] && return
 
 colors() {
